@@ -1,0 +1,66 @@
+
+ 	  
+<html lang="fr-FR">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+	
+<!-- This site is optimized with the Yoast SEO plugin v12.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page non trouvée - Agence Web Tudioweb</title>
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page non trouvée - Agence Web Tudioweb" />
+<meta property="og:site_name" content="Agence Web Tudioweb" />
+<meta property="og:image" content="https://www.tudioweb.com/wp-content/uploads/2018/10/facebook_cover.jpg" />
+<meta property="og:image:secure_url" content="https://www.tudioweb.com/wp-content/uploads/2018/10/facebook_cover.jpg" />
+<meta property="og:image:width" content="851" />
+<meta property="og:image:height" content="315" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page non trouvée - Agence Web Tudioweb" />
+<meta name="twitter:site" content="@tudioweb" />
+<meta name="twitter:image" content="https://tudioweb.com/wp-content/uploads/2018/10/facebook_cover.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.tudioweb.com/fr/#organization","name":"Tudioweb","url":"https://www.tudioweb.com/fr/","sameAs":["https://www.facebook.com/tudioweb/","https://www.instagram.com/tudioweb/","https://www.linkedin.com/company/tudioweb/","https://twitter.com/tudioweb"],"logo":{"@type":"ImageObject","@id":"https://www.tudioweb.com/fr/#logo","url":"https://www.tudioweb.com/wp-content/uploads/2018/10/new-logo_2_0.png","width":260,"height":90,"caption":"Tudioweb"},"image":{"@id":"https://www.tudioweb.com/fr/#logo"}},{"@type":"WebSite","@id":"https://www.tudioweb.com/fr/#website","url":"https://www.tudioweb.com/fr/","name":"Agence Web Tudioweb","publisher":{"@id":"https://www.tudioweb.com/fr/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.tudioweb.com/fr/?s={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.tudioweb.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.5"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://www.tudioweb.com/wp-content/plugins/instagram-feed/css/sb-instagram-2-1.min.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.tudioweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.tudioweb.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='https://www.tudioweb.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-fontello-css'  href='https://www.tudioweb.com/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css?ver=2.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.tudioweb.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpos-slick-style-css'  href='https://www.tudioweb.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/slick.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='logo_showcase_style-css'  href='https://www.tudioweb.com/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/logo-showcase.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.tudioweb.com/wp-includes/css/dashicons.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-style-css'  href='https://www.tudioweb.com/wp-content/themes/tudioweb/css/bootstrap.min.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.tudioweb.com/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.tudioweb.com/wp-content/themes/tudioweb/style.css?ver=5.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://www.tudioweb.com/wp-content/themes/tudioweb/responsive.css?ver=5.2.5' type='text/css' media
